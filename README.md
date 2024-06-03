@@ -1,0 +1,2 @@
+# FTH
+Freewriting Theme Helper
